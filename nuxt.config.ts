@@ -37,7 +37,7 @@ export default defineNuxtConfig({
          Inter: [400, 500, 600, 700, 800, 900],
       },
    },
-   i18n: {
+/*   i18n: {
       lazy: true,
       langDir: "locales",
       strategy: "no_prefix",
@@ -63,5 +63,5 @@ export default defineNuxtConfig({
       vueI18n: {
          fallbackLocale: "en",
       },
-   }
+   }*/
 });
