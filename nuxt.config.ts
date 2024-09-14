@@ -46,6 +46,7 @@ export default defineNuxtConfig({
             name: "ID",
             icon: "i-cirle-flags-id",
             iso: "id",
+            language: "id-ID",
             code: "id",
             file: "ID.json"
         },
@@ -53,6 +54,7 @@ export default defineNuxtConfig({
             name: "EN",
             icon: "i-cirle-flags-en",
             iso: "en",
+            language: "en-US",
             code: "en",
             file: "EN.json"
         }
