@@ -48,4 +48,4 @@ module.exports = {
    },
    plugins: [require("@tailwindcss/typography")],
 }
-satisfies Config;
+satisfies Config
