@@ -52,7 +52,7 @@ export default defineNuxtConfig({
          {
             name: "EN",
             icon: "i-cirle-flags-en",
-            iso: "en-US",
+            iso: "en",
             code: "en",
             file: "EN.json"
         }
