@@ -1,0 +1,34 @@
+{
+   "name": "drnk",
+   "private": true,
+   "description": "hi, it's just me here",
+   "scripts": {
+      "build": "nuxt build",
+      "dev": "nuxt dev",
+      "generate": "nuxt generate",
+      "preview": "nuxt preview",
+      "postinstall": "nuxt prepare"
+   },
+   "devDependencies": {
+      "@nuxt/content": "latest",
+      "@nuxt/devtools": "latest",
+      "@nuxthq/studio": "latest",
+      "@nuxtjs/fontaine": "latest",
+      "@nuxtjs/google-fonts": "latest",
+      "nuxt": "latest",
+      "nuxt-icon": "latest",
+      "prettier": "latest",
+      "prettier-plugin-tailwindcss": "latest",
+      "yarn-upgrade-all": "latest",
+      "@nuxtjs/i18n": "latest"
+   },
+   "dependencies": {
+      "@iconify-json/lucide": "latest",
+      "@nuxt/image": "latest",
+      "@nuxt/ui": "latest",
+      "vue-use-fixed-header": "latest",
+      "postcss-custom-properties": "latest",
+      "@vercel/analytics": "latest",
+      "zod": "latest"
+   }
+}
